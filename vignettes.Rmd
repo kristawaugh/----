@@ -1,0 +1,12 @@
+---
+title: "vignette"
+author: "Krista Waugh"
+date: "5/1/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+How to use the "Binomial" R package 
